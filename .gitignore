@@ -1,17 +1,16 @@
-# Secretos
+
 .env
 
-# Entorno virtual
 venv/
 .venv/
 
-# Archivos generados por Python
+
 __pycache__/
 *.pyc
 
-# Base de datos local
+
 *.db
 instance/
 
-# Configuración del editor
+
 .vscode/
